@@ -1,9 +1,11 @@
 name = "Persona"
 license = "MIT"
+licenselink = "https://github.com/aries1980/hugo-theme-persona/blob/master/LICENSE"
 source_repo = ""
 description = "A clean, well-readable blog theme."
 tags = ["blog", "company"]
 features = ["blog" ]
+min_version=0.12
 
 [author]
   name = "aries1980"
